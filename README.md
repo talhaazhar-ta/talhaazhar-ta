@@ -28,16 +28,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talhaazhar-ta&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=8b949e" alt="Talha's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaazhar-ta&layout=compact&theme=transparent&hide_border=true&title_color=3178C6&text_color=8b949e" alt="Top languages" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=talhaazhar-ta&theme=transparent&hide_border=true&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&sideNums=8b949e&currStreakNum=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
-</p>
-
 ## Get in touch
 
 <p>
