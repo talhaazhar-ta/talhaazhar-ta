@@ -28,9 +28,24 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+## Projects
+
+Live client work. More detail on each at [my portfolio](https://talhaazhar-ta.vercel.app/#work).
+
+| Project | What it is | Stack | Live |
+| --- | --- | --- | --- |
+| **Farooq & Co ERP** | Sign-in-gated ERP and public website for a wholesale trading business, on one shared database | JavaScript, PHP, MariaDB, GitHub Actions | [farooqandcotraders.online](https://farooqandcotraders.online) |
+| **Publishing Platform** | SEO-first, server-rendered multi-author blog platform with author and admin roles | Next.js, React, TypeScript, Prisma, PostgreSQL | [riazlaghari.com](https://riazlaghari.com) |
+| **GoHelp Donations** | Donation platform with live Stripe payments, a donor portal and an admin dashboard | PHP, MySQL, JavaScript, Stripe API | [gohelp.click](https://gohelp.click) |
+| **Pelican Fellowship** | WordPress site rebuilt in Next.js with every legacy URL preserved, plus an application system and admin panel | Next.js, TypeScript, Tailwind CSS, Prisma | [pelicanfellowship.org](https://pelicanfellowship.org) |
+| **Letszu Tours** | Multi-page, mobile-first website with a tour booking flow | Next.js, TypeScript | [letszu.com](https://letszu.com/) |
+| **Tech&Search Portal** | Recruitment portal with an admin dashboard and Excel export of applications | PHP, MySQL | [technsearch.online](https://technsearch.online/) |
+| **EnglishKeys Academy** | Education website with a containerised PHP stack and an AI chat assistant | PHP, Docker | [englishkeysacademy.com](https://englishkeysacademy.com/) |
+
 ## Get in touch
 
 <p>
+  <a href="https://talhaazhar-ta.vercel.app/Talha-Azhar-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-2EA44F?style=for-the-badge&logoColor=white" alt="Download CV" /></a>
   <a href="https://talhaazhar-ta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/talhaazhar-ta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:talhazhar.ta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
